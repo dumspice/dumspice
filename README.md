@@ -18,8 +18,7 @@ I am a recent graduate currently working as a Fresher at FPT Software, with a st
 
 ### Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumspice&theme=blueberry)
-
-### Top Language By Repo
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumspice&theme=blueberry)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumspice&theme=blueberry" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumspice&theme=blueberry" width="48%" />
+</p>
