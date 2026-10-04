@@ -7,7 +7,7 @@
 
 ---
 
-### 💫 Về tôi
+### 💫 About me
 
 I am a full-stack developer who has embarked on my career journey with FPT Software. My goal is to become a highly knowledgeable Senior Full-stack Developer.
 
@@ -18,7 +18,7 @@ I am a full-stack developer who has embarked on my career journey with FPT Softw
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ
+### 🛠️ Skills & Tools
 
 #### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
