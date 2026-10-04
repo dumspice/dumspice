@@ -1,5 +1,5 @@
-# 🚀 Chào mừng bạn đến với không gian của Dũng!
-### Hoàng Tiến Dũng | Fresher Backend Developer @ FPT Software
+# 🚀 Welcome to my space!
+### Hoàng Tiến Dũng | Fullstack Developer @ FPT Software
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dumspice&label=Profile%20views&color=0e75b6&style=flat" alt="dumspice" />
@@ -9,12 +9,12 @@
 
 ### 💫 Về tôi
 
-Tôi là một lập trình viên mới tốt nghiệp, hiện đang bắt đầu hành trình chuyên nghiệp tại **FPT Software**. Với niềm đam mê lớn dành cho việc xây dựng các ứng dụng web hiện đại, tôi tập trung tối ưu hóa hiệu suất hệ thống và trải nghiệm người dùng.
+I am a full-stack developer who has embarked on my career journey with FPT Software. My goal is to become a highly knowledgeable Senior Full-stack Developer.
 
-- 🌍 Đang sống và làm việc tại **Hà Nội**.
-- 🧠 Đang đào sâu vào **Next.js** và kiến trúc **NestJS**.
-- 🎯 Mục tiêu: Trở thành một **Fullstack Developer** và lấn sân sang mảng **Mobile App**.
-- 🌱 Fun fact: `I'm a tree` (Luôn vươn lên và ưa sự bền bỉ).
+- 🌍 Living and work in **Hà Nội**.
+- 🧠 Digging deeper in **Next.js** và the architecture of **NestJS**.
+- 🎯 Target: Become a **Fullstack Developer** and move in **Mobile App**.
+- 🌱 Fun fact: `I'm a tree` (Always strive to rise and believe in perseverance).
 
 ---
 
@@ -43,7 +43,7 @@ Tôi là một lập trình viên mới tốt nghiệp, hiện đang bắt đầ
 
 ---
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumspice&theme=blueberry" width="49%" />
@@ -52,7 +52,7 @@ Tôi là một lập trình viên mới tốt nghiệp, hiện đang bắt đầ
 
 ---
 
-### 🤝 Kết nối với tôi
+### 🤝 Connect with me through
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumspice)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dumspice)
